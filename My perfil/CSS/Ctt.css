@@ -91,7 +91,7 @@ article {
     padding: 20px; /* Adiciona espaço interno às seções */
     border-radius: 5px; /* Arredonda os cantos das seções */
 
-    background-image: url(mimi.png);
+    background-image: url(../Img/mimi.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size:contain;

@@ -86,7 +86,7 @@ section {
     margin: 20px; /* Adiciona margem às seções */
     padding: 20px; /* Adiciona espaço interno às seções */
     border-radius: 5px; /* Arredonda os cantos das seções */
-    background-image: url(li.png);
+    background-image: url(../Img/li.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size:contain;
